@@ -360,5 +360,10 @@
       animateThumb: false,
       showThumbByDefault: false,
     });
+    $('#lightgallery15').lightGallery({
+      thumbnail: true,
+      animateThumb: false,
+      showThumbByDefault: false,
+    });
   });
 })();
